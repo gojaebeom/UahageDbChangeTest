@@ -1,0 +1,12 @@
+### post hospital
+POST http://127.0.0.1:3000/api/places/hospitals
+
+### post restaurant
+POST http://127.0.0.1:3000/api/places/restaurants
+
+### post kid_cafe
+POST http://127.0.0.1:3000/api/places/kid-cafes
+
+### post experience-centers
+POST http://127.0.0.1:3000/api/places/experience-centers
+
